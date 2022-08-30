@@ -1,11 +1,4 @@
-import React, {
-	FC,
-	useMemo,
-	useEffect,
-	useState,
-	useReducer,
-	useCallback,
-} from "react"
+import React, { FC, useMemo, useEffect, useState, useReducer } from "react"
 import { ScrollView, View, Text, Image, Alert } from "react-native"
 import { useTheme } from "@react-navigation/native"
 
