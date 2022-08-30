@@ -6,4 +6,4 @@ CanIGetUhhh mobile app can help you find the right alcoholic beverage!
 
 This project is to demonstrate the purpose of useCallback, useMemo, useState, useEffect, useContext, useRef, useReducer, and memo from React.
 
-API: https://www.thecocktaildb.com/api.php?ref=apilist.fun
+API docs for The CocktailDB: https://www.thecocktaildb.com/api.php?ref=apilist.fun
